@@ -1,1 +1,6 @@
-### npm install antd @ant-design/icons react-redux @reduxjs/toolkit axios chart.js html-react-parser millify moment react-chartjs-2 react-router-dom
+###  Crypto World
+
+Go To: https://cyptoworld-47ef34.netlify.app/
+
+React application that contains everything about cryptocurrencies, crypto markets and exchanges,latest news and
+much more.
